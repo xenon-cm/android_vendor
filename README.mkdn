@@ -1,0 +1,4 @@
+I used Peter Alfonso's setup for the vendor directory, why mess with perfection. 
+
+
+source: https://github.com/peteralfonso/platform_vendor_pete
